@@ -33,6 +33,6 @@ class Owner
   end
   
   def cats 
-    
+    Cat.
   
 end
